@@ -1,6 +1,11 @@
 # MysticMark
 本项目演示了一种简单的隐写术实现，即将文本隐藏在图像中的技术。
 
+## 演示
+
+
+https://github.com/ZhangDo/MysticMark/assets/14886634/9acfd755-e38a-429e-ad02-b5d02226ddf7
+
 
 
 ## 功能
